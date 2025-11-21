@@ -1,4 +1,7 @@
 # Coffee Exports Analysis (2000–2023)
+
+[View the notebook](https://github.com/CelesteBarlow/green_coffee_export_analysis/blob/main/greencoffee-export-analysis.ipynb)
+
 ### Data Cleaning • Supply Chain Analytics • Climate & Trade Research
 
 This project analyzes global green coffee exports for the world’s top producing countries (2000–2023).  

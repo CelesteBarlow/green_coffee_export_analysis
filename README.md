@@ -109,7 +109,4 @@ This project is the analytical foundation for a larger portfolio piece integrati
 - Supply-chain risk implications  
 - Visualization dashboard  
 
----
-
-## 6. Repository Contents
 
